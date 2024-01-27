@@ -68,12 +68,38 @@ This analysis aims to uncover the different customers segments, purchase trends 
 
 6. Which Product line has the largest revenue.
 
-7.Which is the city with largest revenue.
+7. Which is the city with largest revenue.
 
 8. What is the average rating of each product line.
 
 9. Which branch sold more product than the average product sold.
 
 10. What is the most common product line by gender.
+
+
+
+**Sales Questions**
+
+1. Number of sales made in each time of the day per week day.
+
+2. Which of the customer type bring most revenue.
+
+3. Which city has the largest tax/VAT Percent.
+
+4. Which customer type pays most in the VAT(Value Added Tax).
+
+**Customer Questions**
+
+1. How many unique customer type are there in the data.
+
+2. How many unique payment methods are there in the data.
+
+3. Which customer type buys the most.
+
+4. Which time of the day do customers give most ratings per branch.
+
+5. Which week of the day has average ratings.
+
+6. 
 
 
