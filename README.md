@@ -88,6 +88,11 @@ This analysis aims to uncover the different customers segments, purchase trends 
 
 4. Which customer type pays most in the VAT(Value Added Tax).
 
+5. Rank products based on total sales within each branch.
+
+
+
+
 **Customer Questions**
 
 1. How many unique customer type are there in the data.
