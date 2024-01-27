@@ -116,6 +116,8 @@ CREATE DATABASE IF NOT EXISTS WalmartSales;
 
 USE walmartSales;
 
+![Screenshot 2024-01-28 005802](https://github.com/Saqlainshaikh05/WalMart-Sales/assets/121796290/f0c9d0dc-64fe-4bca-9da4-8b5b437fb63a)
+
 CREATE TABLE IF NOT EXISTS sales(
 
  Invoice_id VARCHAR(50) PRIMARY KEY,
