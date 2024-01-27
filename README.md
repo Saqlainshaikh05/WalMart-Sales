@@ -90,6 +90,10 @@ This analysis aims to uncover the different customers segments, purchase trends 
 
 5. Rank products based on total sales within each branch.
 
+6. Assign a row number to each record based on the order of the invoice date.
+
+7. Top Products by sales in each branch.
+
 
 
 
