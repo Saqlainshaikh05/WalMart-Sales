@@ -105,6 +105,4 @@ This analysis aims to uncover the different customers segments, purchase trends 
 
 5. Which week of the day has average ratings.
 
-6. 
-
 
