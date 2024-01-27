@@ -118,42 +118,5 @@ USE walmartSales;
 
 ![Screenshot 2024-01-28 005802](https://github.com/Saqlainshaikh05/WalMart-Sales/assets/121796290/f0c9d0dc-64fe-4bca-9da4-8b5b437fb63a)
 
-CREATE TABLE IF NOT EXISTS sales(
-
- Invoice_id VARCHAR(50) PRIMARY KEY,
- 
- Branch VARCHAR(5) NOT NULL,
- 
- City VARCHAR(30) NOT NULL,
- 
- Customer_Type VARCHAR(30) NOT NULL,
- 
- Gender VARCHAR(10),
- 
- Product_line VARCHAR(150) NOT NULL,
- 
- Unit_price DECIMAL(10,2) NOT NULL,
- 
- Quantity INT NOT NULL,
- 
- VAT FLOAT(6,4) NOT NULL,
- 
- Total DECIMAL(12,4),
- 
- Date DATETIME,
- 
- Time TIME ,
- 
- Payment_Method VARCHAR(25) NOT NULL,
- 
- Cogs DECIMAL(10,2) NOT NULL,
- 
- Gross_Margin_pct FLOAT(11,9),
- 
- Gross_Income DECIMAL(12,4) NOT NULL,
- 
- Rating FLOAT(2,1)
- 
- );
  
 
